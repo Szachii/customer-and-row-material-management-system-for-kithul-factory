@@ -2,7 +2,9 @@
 export default {
   content: [
     "./index.html",
-    "./src/App.{js,jsx,ts,tsx}",
+    "./src/pages/Welcome.{js,jsx,ts,tsx}",
+    "./src/pages/Login.{js,jsx,ts,tsx}",
+    "./src/pages/Register.{js,jsx,ts,tsx}",
 
   ],
   theme: {
